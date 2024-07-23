@@ -3,7 +3,7 @@
 </h1>
 
 ### :page_with_curl: Projeto
-- Projeto realizado a partir de um trabalho da faculdade.
+- Projeto realizado Para teste Ferrari.
 
 ### :page_with_curl: Funcionalidades
 - Autenticação para Login,
@@ -60,9 +60,5 @@
 3. `php artisan serve` - Executa o projeto
 
 4. `php artisan migration` - Cria as migrations
-
-### :x: Erro durante o desenvolvimento
-- Erro ao executar "php artisan migration"
-- Foi executado este comando: `sudo apt-get install php5.6-mysql/php7.2-mysql` (Linuxs)
 
 
